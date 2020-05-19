@@ -126,6 +126,9 @@ header,
 footer,
 main {
   /*set display to flex and vertically & horizontally align by setting justify-content and align-items to center*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #div-1,
@@ -161,6 +164,9 @@ main {
   background-color: #f16059;
   width: 30%;
   height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ==========================================================================
